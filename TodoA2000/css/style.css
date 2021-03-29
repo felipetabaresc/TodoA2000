@@ -1,0 +1,48 @@
+*{
+    /*reseteamos la margen de todos los lados */
+    margin: 0;
+    padding: 0;
+    /*seleccionamos las fuentes que usará la página web*/
+    font-style: Copperplate, Copperplate Gothic Light, fantasy;
+}
+
+body{
+    /*Le ponemos color de fondo a toda la página web*/
+    background-color: lightgray;
+    /*Se pone margen en todos los laterales al Body de la página web*/
+    margin: 5%;
+    padding: 5%;
+    
+
+}
+table{
+    margin:5% ;
+    padding: 5%;
+}
+.ResultadoCompra{
+    background-color: darkgrey;
+    margin: 5%;
+    padding: 5%;
+    border-radius: 30px;
+   
+}
+.CuadroVerde{
+    float: left;
+    background-color: darkslategrey;
+    margin: 5%;
+    padding: 5%;
+    border-radius: 50px;
+}
+.CuadroGris{
+    background-color: darkgrey;
+    margin: 5%;
+    padding: 5%;
+    border-radius: 30px;
+}
+.CuadroTitulo{
+    background-color: darkgrey;
+    text-align: center;
+    margin: 5%;
+    padding: 5%;
+    border-radius: 30px;
+}
